@@ -145,11 +145,26 @@
                </gap> Exiguum hoc observantiae &amp; gratitudi<g ref="char:EOLhyphen"/>nis non simulatae <gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
                </gap> qvàm humillimè D. D. D. C. Q.</p>
-            <figure/>
-            <figure/>
-            <figure/>
-            <figure/>
-            <figure/>
+            <p>
+               <pb facs="tcp:31631:3"/>
+               <figure/>
+            </p>
+            <p>
+               <pb facs="tcp:31631:4"/>
+               <figure/>
+            </p>
+            <p>
+               <pb facs="tcp:31631:4"/>
+               <figure/>
+            </p>
+            <p>
+               <pb facs="tcp:31631:5"/>
+               <figure/>
+            </p>
+            <p>
+               <pb facs="tcp:31631:5"/>
+               <figure/>
+            </p>
          </div>
          <div type="preface">
             <pb facs="tcp:31631:6"/>
